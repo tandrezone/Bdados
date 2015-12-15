@@ -1,0 +1,20 @@
+{
+   "name": "moonlight/bdados",
+   "description": "Package to access bd",
+   "keywords": ["bd", "bdados", "moonlight"],
+   "homepage": "https://github.com/tandrezone/bdados",
+   "license": "MIT",
+   "authors": [
+      {
+         "name": "Tiago Andre",
+         "email": "tandrezone@gmail.com",
+         "homepage": "https://github.com/tandrezone"
+      }
+   ],
+   "require": {
+      "php": ">=5.3.0"
+   },
+   "autoload": {
+      "classmap": ["BDadosPDO.php"]
+   }
+}
