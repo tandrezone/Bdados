@@ -1,7 +1,7 @@
 <?php
 /**
  * A class BDados estabelece a ligação e executa todas as instruções na Base de dados. Compatível com MYSQL, ORACLE, SQLITE, PGSQL, etc
- * @author dpereira
+ * @author dpereira2
  * @package MOON
  * @name BDados
  * @version 1.0
